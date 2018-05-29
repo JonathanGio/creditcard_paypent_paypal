@@ -31,8 +31,8 @@ class PaypalPaymentController extends Controller
             ->setExpireMonth("05")
             ->setExpireYear("2019")
             ->setCvv2("456")
-            ->setFirstName("Joe")
-            ->setLastName("Shopper");
+            ->setFirstName("Jonathan Gio")
+            ->setLastName("Fresa");
 
         // ### FundingInstrument
         // A resource representing a Payer's funding instrument.

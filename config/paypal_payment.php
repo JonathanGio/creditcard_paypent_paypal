@@ -2,12 +2,12 @@
 
 return [
     # Define your application mode here
-    #'mode' => 'live',
+    'mode' => 'live',
 
     # Account credentials from developer portal
     'account' => [
-        'client_id' => 'AbtbVBmoEJV1Xf_2LNXHdWpkl-S5YUPY95twlrhLPtdHzQBmtZAv1bwju4Hz2rSRxw3slJWKXlmAE2aP',
-        'client_secret' => 'EK7kgHRm1ycmSHGKynKA00zwY1xHGoJA3K9DJaIK2cMlpofpuCvnDGFSEyJvBGEcHsogXOkdfdZS8ybD',
+        'client_id' => 'AW1kfE1epk8qZ7DgCsru4lY4vHumSdQSMN7o6fGmnZO-AmzDVEDrrIBIfGuV0k1Z--rvcBG-v5SKuoQT',
+        'client_secret' => 'EAJrm4GRGbX2Yf58Q6Y4w0DimeI2Hj6hvPiC5QoAIHB-GbvWaO8AoPhxtfSjGSVeTZLBKxmmcywhOuEm',
     ],
 
     # Connection Information

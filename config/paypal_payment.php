@@ -1,4 +1,4 @@
-jjkj<?php
+<?php
 
 return [
     # Define your application mode here

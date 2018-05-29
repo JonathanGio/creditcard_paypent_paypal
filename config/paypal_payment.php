@@ -6,8 +6,8 @@ return [
 
     # Account credentials from developer portal
     'account' => [
-        'client_id' => 'AW1kfE1epk8qZ7DgCsru4lY4vHumSdQSMN7o6fGmnZO-AmzDVEDrrIBIfGuV0k1Z--rvcBG-v5SKuoQT',
-        'client_secret' => 'EAJrm4GRGbX2Yf58Q6Y4w0DimeI2Hj6hvPiC5QoAIHB-GbvWaO8AoPhxtfSjGSVeTZLBKxmmcywhOuEm',
+        'client_id' => '',
+        'client_secret' => '',
     ],
 
     # Connection Information

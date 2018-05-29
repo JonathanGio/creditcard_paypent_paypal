@@ -6,8 +6,8 @@ return [
 
     # Account credentials from developer portal
     'account' => [
-        'client_id' => env('PAYPAL_CLIENT_ID', ''),
-        'client_secret' => env('PAYPAL_CLIENT_SECRET', ''),
+        'client_id' => 'AbtbVBmoEJV1Xf_2LNXHdWpkl-S5YUPY95twlrhLPtdHzQBmtZAv1bwju4Hz2rSRxw3slJWKXlmAE2aP',
+        'client_secret' => 'EK7kgHRm1ycmSHGKynKA00zwY1xHGoJA3K9DJaIK2cMlpofpuCvnDGFSEyJvBGEcHsogXOkdfdZS8ybD',
     ],
 
     # Connection Information

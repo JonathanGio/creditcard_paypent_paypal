@@ -2,7 +2,7 @@
 
 return [
     # Define your application mode here
-    'mode' => 'live',
+    #'mode' => 'live',
 
     # Account credentials from developer portal
     'account' => [
